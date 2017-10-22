@@ -1,0 +1,66 @@
+body {  background-image:url("http://www.twitrcovers.com/wp-content/uploads/2013/08/Tour-de-France-l.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+		background-attachment: fixed;
+	background-position: right top;
+	padding-top: 0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	bacground-opacity: 0.5;
+    	filter: alpha(opacity=50);
+     }
+#h {
+	overflow:auto;
+	color:white;
+	border-align:center;
+	border:2px solid black;  
+	text-align:center;
+	font-size:75px;	
+	width:100%;
+	height:auto;
+	
+	background-color:black;
+	background: red; /* For browsers that do not support gradients */
+  	background: -webkit-linear-gradient(left,rgba(255,0,0,0),rgba(0,255,0,1)); /*Safari 5.1-6*/
+  	background: -o-linear-gradient(right,rgba(255,0,0,0),rgba(0,255,0,1)); /*Opera 11.1-12*/
+  	background: -moz-linear-gradient(right,rgba(255,0,0,0),rgba(0,255,0,1)); /*Fx 3.6-15*/
+  	background: linear-gradient(to right, rgba(255,0,0,0), rgba(0,255,0,1)); /*Standard*/
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	box-shadow: 10px 10px 5px lightgreen;
+	}
+.button {
+    background: red; /* For browsers that do not support gradients */
+  	background: -webkit-linear-gradient(left,rgba(255,0,0,0),rgba(0,255,0,1)); /*Safari 5.1-6*/
+  	background: -o-linear-gradient(right,rgba(255,0,0,0),rgba(0,255,0,1)); /*Opera 11.1-12*/
+  	background: -moz-linear-gradient(right,rgba(255,0,0,0),rgba(0,255,0,1)); /*Fx 3.6-15*/
+  	background: linear-gradient(to right, rgba(255,0,0,0), rgba(0,255,0,1)); /*Standard*/
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    border: solid black;
+    color: white;
+    width:600px;
+    margin:4px 0px 4px 4px;	
+ 
+    padding: 20px 30px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 10px 10px 10px 325px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+	.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+.button3:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+.button4:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+ 
+	
+    
